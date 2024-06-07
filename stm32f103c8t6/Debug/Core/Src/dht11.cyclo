@@ -1,0 +1,5 @@
+../Core/Src/dht11.c:3:6:DHT11_REST	1
+../Core/Src/dht11.c:18:9:DHT11_Check	7
+../Core/Src/dht11.c:47:9:DHT11_Read_Bit	6
+../Core/Src/dht11.c:69:9:DHT11_Read_Byte	2
+../Core/Src/dht11.c:81:9:DHT11_Read_Data	4

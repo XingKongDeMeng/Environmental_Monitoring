@@ -1,0 +1,3 @@
+../Core/Src/gpio.c:42:6:MX_GPIO_Init	1
+../Core/Src/gpio.c:78:6:DHT11_OUT	1
+../Core/Src/gpio.c:87:6:DHT11_IN	1

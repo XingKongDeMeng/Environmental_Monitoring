@@ -1,0 +1,5 @@
+../Core/Src/dht11.c:3:6:DHT11_REST	8	static
+../Core/Src/dht11.c:18:9:DHT11_Check	16	static
+../Core/Src/dht11.c:47:9:DHT11_Read_Bit	16	static
+../Core/Src/dht11.c:69:9:DHT11_Read_Byte	16	static
+../Core/Src/dht11.c:81:9:DHT11_Read_Data	32	static
